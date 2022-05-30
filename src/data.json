@@ -1,0 +1,88 @@
+{
+    "home" : {
+        "title": "Home",
+        "description": "Home page",
+        "populars": [
+            {
+                "image": "https://cdn.pixabay.com/photo/2016/03/27/21/34/restaurant-1284351_960_720.jpg",
+                "title": "La Bodega",
+                "description": "Av. 6 de agosto casi esq. Santa Cruz",
+                "color": "#CC2D4A"
+            },
+            {
+                "image": "https://cdn.pixabay.com/photo/2016/11/19/12/44/burgers-1839090_960_720.jpg",
+                "title": "El Cuadril",
+                "description": "Calle La Paz nro 230",
+                "color": "#D93B30"
+            },
+            {
+                "image": "https://cdn.pixabay.com/photo/2021/02/03/00/10/receptionists-5975962_960_720.jpg",
+                "title": "Hotel Jacanda",
+                "description": "Av. Bolivar entre Cipriano Barace y...",
+                "color": "#BD2B6E"
+            },
+            {
+                "image": "https://cdn.pixabay.com/photo/2016/10/03/23/15/ice-1713160_960_720.jpg",
+                "title": "Heladería a la plancha",
+                "description": "Helados de todos los sabores y precios.",
+                "color": "#DE3151"
+            },
+            {
+                "image": "https://cdn.pixabay.com/photo/2016/03/27/21/34/restaurant-1284351_960_720.jpg",
+                "title": "La Bodega",
+                "description": "Av. 6 de agosto casi esq. Santa Cruz",
+                "color": "#fe365b"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Hoteles",
+                "icon": "home"
+            },
+            {
+                "name": "Restaurantes",
+                "icon": "rest"
+            },
+            {
+                "name": "Tiendas",
+                "icon": "shoppingcart"
+            },
+            {
+                "name": "Museos",
+                "icon": "camera"
+            },
+            {
+                "name": "Hospitales",
+                "icon": "heart"
+            },
+            {
+                "name": "Farmacias",
+                "icon": "plussquareo"
+            },
+            {
+                "name": "Bancos",
+                "icon": "barchart"
+            }
+        ],
+        "pharmacy": [
+            {
+                "name": "San Genaro",
+                "address": "Av. 6 de agosto casi esq. Santa Cruz",
+                "latitude": -14.839361,
+                "longitude": -64.914004
+            },
+            {
+                "name": "FarmaCopr",
+                "address": "Av. Simón Bolivar",
+                "latitude": -14.839128,
+                "longitude": -64.8977074
+            },
+            {
+                "name": "Farmacia Chavez",
+                "address": "Av. 6 de agoston nro 34",
+                "latitude": -14.828899,
+                "longitude": -64.907091
+            }
+        ]
+    }
+}
